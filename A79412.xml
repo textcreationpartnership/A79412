@@ -1,0 +1,283 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An imperfect pourtraicture of His Sacred Majesty Charls the II. By the grace of God King of Great Britain, France, and Ireland, defender of the faith, &amp;c. Written by a loyal subject, who most religiously affirms, se non diversas spes, sed incolumitatem Cæsaris simpliciter spectare.</title>
+            <author>Charleton, Walter, 1619-1707.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 37 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79412</idno>
+            <idno type="STC">Wing C3677</idno>
+            <idno type="STC">Thomason E1084_8</idno>
+            <idno type="STC">ESTC R208017</idno>
+            <idno type="EEBO-CITATION">99867023</idno>
+            <idno type="PROQUEST">99867023</idno>
+            <idno type="VID">169359</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79412)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169359)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 161:E1084[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An imperfect pourtraicture of His Sacred Majesty Charls the II. By the grace of God King of Great Britain, France, and Ireland, defender of the faith, &amp;c. Written by a loyal subject, who most religiously affirms, se non diversas spes, sed incolumitatem Cæsaris simpliciter spectare.</title>
+                  <author>Charleton, Walter, 1619-1707.</author>
+               </titleStmt>
+               <extent>[4], 23 p. : port. (metal cut)  </extent>
+               <publicationStmt>
+                  <publisher>printed for Henry Herringman, at the sign of the Anchor in the Lower Walk of the New-Exchange,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A loyal subject = Walter Charleton. Cf. Wing.</note>
+                  <note>Annotation on Thomason copy: "march 7th", "1660"; imprint date crossed through.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169359:1" rendition="simple:additions"/>
+            <p>AN IMPERFECT POURTRAICTURE OF HIS <hi>SACRED MAJESTY</hi> CHARLS the II.</p>
+            <p>
+               <hi>BY THE GRACE OF GOD</hi> KING Of Great BRITAIN, FRANCE, and IRELAND, <hi>Defender of the Faith, &amp;c.</hi>
+            </p>
+            <p>Written by a Loyal Subject, who moſt Religiouſly affirms,</p>
+            <q>
+               <l>
+                  <hi>Se non diverſas ſpes, ſed incolumitatem</hi>
+               </l>
+               <l>Caeſaris <hi>ſimpliciter ſpectare.</hi>
+               </l>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Henry Herringman,</hi> at the Sign of the <hi>An<g ref="char:EOLhyphen"/>chor</hi> in the Lower Walk of the <hi>New-Exchange.</hi> 1661.</p>
+         </div>
+         <div type="frontispiece">
+            <pb facs="tcp:169359:2"/>
+            <p>
+               <figure>
+                  <p>
+                     <hi>Carolus. 2<hi rend="sup">d.</hi> D:G: Rex Ang: Scot Franc: &amp; Hid: etc. Aetatis ſuae 31. 1661</hi>
+                  </p>
+                  <figDesc>portrait of Charles II</figDesc>
+               </figure>
+            </p>
+            <pb facs="tcp:169359:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:169359:3"/>
+            <pb n="1" facs="tcp:169359:3"/>
+            <head>AN Imperfect Pourtrait OF His Sacred MAJESTY.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">S</seg>ENECA</hi> the <hi>Rhetorician</hi> reports a misfortune that befell his dear Friend, <hi>Porcius Latro</hi> (whom nevertheleſſe he calls <hi>Declama<g ref="char:EOLhyphen"/>toriae Virtutis unicum Exem<g ref="char:EOLhyphen"/>plum</hi>) which was, that brought from the ſhady Schools to Plead in publick, in defence of <hi>Ruſticus Porcius,</hi> a near kinſman of <hi>His;</hi> He was ſo ſurpriſed with a fit of extreme baſhfulneſſe, that he began with a Sole<g ref="char:EOLhyphen"/>ciſm, and fell into confuſion. So hard is it for one
+<pb n="2" facs="tcp:169359:4"/>bred up in obſcurity, and accuſtomed onely to pri<g ref="char:EOLhyphen"/>vate Exerciſes of his Wit, to conſerve the ſerenity of his Underſtanding, and faithfulneſſe of his Me<g ref="char:EOLhyphen"/>mory, when he comes to ſtruggle with Arguments of publick uſe and importance.</p>
+            <p>This man's <hi>Example</hi> may be my <hi>Excuſe,</hi> and I take liberty to lay hold of his failing then, to exte<g ref="char:EOLhyphen"/>nuate my own failing now. For, if He, who was ſo great a Maſter in the Art of Speaking well, and of ſo prodigious Abilities both Native and Acquired, found himſelf at a loſſe in the delivery of his Con<g ref="char:EOLhyphen"/>ceptions in a matter common and ordinary: well may I, a perſon of mean parts, and obſcure con<g ref="char:EOLhyphen"/>verſation, find the like diſorder in my Faculties, in my preſent Attempt. Nay, more favour is due to my Aſtoniſhment, than was to his. Our occaſions, indeed, are different; but the diſadvantage is greater on my ſide. His buſineſſe at that time, was to vindi<g ref="char:EOLhyphen"/>cate a private man, his Equal: I have propoſed to my ſelf to adumbrate the Excellencies of a <hi>Prince,</hi> one as much Superior to all others in the divine <hi>Endowments</hi> of his <hi>Mind,</hi> as in the <hi>Height</hi> of his <hi>Condition.</hi> His Argument low, and familiar: Mine ſuch, that, <hi>Divinity</hi> it ſelf onely excepted, nothing is more noble, nothing more ſublime. Philoſophers teach, and Experience confirms, that Objects too ſtrong and excellent hurt and weaken the outward Senſes: and the ſame holds good alſo of the <hi>Inter<g ref="char:EOLhyphen"/>nal,</hi> the <hi>Mind</hi> ſometimes encountring Objects, whoſe exceeding Brightneſſe doth ſo much the more
+<pb n="3" facs="tcp:169359:4"/>dazel her Eye of Reaſon, by how much the more ſhe dares to look upon them. No wonder, therefore, if ſo weak an Underſtanding as mine is, addreſſing it ſelf to contemplate the reſplendent Glories of a <hi>King</hi> (whom Providence Divine ſeems to have ſent into the World on purpoſe to refine the Age by his Example) be forced to confeſſe its dimneſſe and incompetency. The Difficulties I meet with, are many and great. When I conſider, How many things occurr to be ſpoken of, and how few words I ought to uſe: my trouble is not ſo much, what I ſhould <hi>mention,</hi> as what I ſhould <hi>pretermit;</hi> nor is it eaſie to make a choice, where all parts of my Subject are equally tranſcendent. Here, <hi>Copiouſneſs</hi> of mat<g ref="char:EOLhyphen"/>ter, which in all other occaſions is a <hi>Help,</hi> proves my <hi>Impediment:</hi> and I am reduced to this ſtreight, either to be <hi>Sacrilegious</hi> in omitting <hi>Some</hi> particu<g ref="char:EOLhyphen"/>lars, or <hi>Profane</hi> in attempting to deſcribe <hi>All.</hi> Be<g ref="char:EOLhyphen"/>ſides, all Language muſt come as far ſhort of this <hi>King's</hi> Perfections, as they exceed others Imitati<g ref="char:EOLhyphen"/>on: nor is it leſſe difficult to advance Words agree<g ref="char:EOLhyphen"/>able to His <hi>Merits,</hi> than it is for <hi>Envy</hi> to Eclipſe them. This conſidered, I deny not, but what <hi>Se<g ref="char:EOLhyphen"/>neca</hi> ſaid concerning the Divine Being, <hi>Deum colit, qui novit,</hi> he worſhips God beſt, who moſt con<g ref="char:EOLhyphen"/>templates and admires the ſuper-excellent Proprie<g ref="char:EOLhyphen"/>ties of His Nature; may be true likewiſe if accom<g ref="char:EOLhyphen"/>modated to this Vicegerent of God, His <hi>Sacred</hi> MAJESTY, and it may be well enough ſaid, <hi>Re<g ref="char:EOLhyphen"/>gem colit, qui novit,</hi> that man doth beſt celebrate the King's Goodneſs, who by Reverence, Love, and Obedience, ſhews himſelf moſt ſenſible of it. And,
+<pb n="4" facs="tcp:169359:5"/>therefore, I accordingly confeſſe, that <hi>Silence</hi> and <hi>Admiration</hi> are the moſt proper Expreſſions Subjects can uſe, to teſtifie their Veneration of ſo Incompara<g ref="char:EOLhyphen"/>ble a Prince.</p>
+            <p>But, ſince His MAJESTY ſo often ſpeaks to <hi>Us</hi> in Bleſſings, it were an Ingratitude unpardonable in Us, never to anſwer <hi>Him,</hi> at leaſt in our <hi>Acknow<g ref="char:EOLhyphen"/>ledgments.</hi> To Good and Pious Kings there are owing as well <hi>Offerings</hi> of affectionate <hi>Loyalty,</hi> as <hi>Tributes</hi> of <hi>Duty;</hi> and God hath given them as great a right to the Homage of the <hi>Heart,</hi> as to that of the <hi>Knee</hi> of every Subject. Reflecting upon this, toge<g ref="char:EOLhyphen"/>ther with the infatuation of ſome Evill-minded men (either ſo obdurate, as not to feel; or ſo depraved, as to contemn their own great Happineſſe in be<g ref="char:EOLhyphen"/>ing under His MAJESTY's bleſſed Government) who by their impious breath ſeek at once to ſtain the Honor of the <hi>Head,</hi> and re-inkindle the coals of Sedition and Rebellion in the <hi>Body</hi> of the State: I hope, I ſhall not offend, if I ſuffer my ſelf to be ſo far tranſported by the devote Reſpects I bear to His MAJESTY's Fame, and the juſt Zeal I have for the Peace and Proſperity of my <hi>Country,</hi> as briefly to acknowledge the admirable <hi>Virtues</hi> of the <hi>One,</hi> and ſo the high <hi>Felicity</hi> of the <hi>Other.</hi> I ſay, to <hi>Acknowledge;</hi> becauſe to Commend, or Aſcribe, is impoſſible; it being the prerogative of His Virtues, that they are <hi>Endowments,</hi> not <hi>Attributes.</hi> I am not ſo ignorant, as not to underſtand, that among all Good Men His MAJESTIE's Honor is as
+<pb n="5" facs="tcp:169359:5"/>highly <hi>Sacred,</hi> ſo impregnably <hi>Secure,</hi> and above all neceſſity of <hi>Vindication;</hi> nor ſo vain, as to expect ought I can ſay ſhould be of ſuch force, as to convert thoſe unhappy Wretches, upon whom the more powerful influence of <hi>His Mercy</hi> and <hi>Goodneſſe</hi> hath hitherto been loſt. All the <hi>Deſign</hi> of this Pa<g ref="char:EOLhyphen"/>per, therefore, is to be a Free Oblation brought by a Loyal Heart to the Altar of His MAJESTIES moſt illuſtrious <hi>Name;</hi> and all its <hi>Hopes</hi> are, ſo to be accepted.</p>
+            <p>This being premiſed to clear the Readers Eye<g ref="char:EOLhyphen"/>ſight, I ſhall now adventure to ſet before him an im<g ref="char:EOLhyphen"/>perfect Pourtraicture of <hi>His</hi> moſt Excellent MA<g ref="char:EOLhyphen"/>JESTY, in ſome few of <hi>His</hi> Royal <hi>Virtues</hi> and <hi>Gra<g ref="char:EOLhyphen"/>ces,</hi> thoſe eſpecially which have a more immediate influence upon His <hi>Government,</hi> and chiefly import the welfare and happineſſe of all who live under it. And well may I call it an <hi>Imperfect</hi> Pourtrait, ſince it was taken by an unskilful hand, at an half-light, and at great diſtance; and ſince it is drawn, as in too ſmall a Model, ſo likewiſe in faint and dead Colours; and therefore comes as much ſhort of the inimitable Beauty of the <hi>Original,</hi> as a Sun painted doth of the true one. However, thus much of <hi>Reſemblance</hi> there is in it, that it contains nothing which is not plainly viſible in <hi>His</hi> MAJESTIE's Actions: ſo that every judicious Eye might ſoon have diſcerned whoſe Image it bears, though the Front had want<g ref="char:EOLhyphen"/>ed the Ornament of <hi>His</hi> Glorious Name; and I am obliged to believe, that every ingenious perſon
+<pb n="6" facs="tcp:169359:6"/>hath ſuch lively ſentiments of his Goodneſſe im<g ref="char:EOLhyphen"/>printed upon his Heart, as amount to a Repre<g ref="char:EOLhyphen"/>ſentation in moſt things agreeable to this. So that were I as well ſecured from being condemned of <hi>Diſparagement,</hi> as I am from being accuſed of <hi>Flattery,</hi> I ſhould think my Errors much more Ve<g ref="char:EOLhyphen"/>nial than now they are.</p>
+            <p>Before we can look upon this ineſtimable <hi>Jewel,</hi> our Eyes are arreſted by the correſpondent Good<g ref="char:EOLhyphen"/>lineſſe of the <hi>Cabinet</hi> wherein 'tis lodged. For <hi>His</hi> MAJESTY's PERSON, therefore, if it be true (as doubtleſſe it is) that Maſculine Beauty doth con<g ref="char:EOLhyphen"/>ſiſt rather in the due <hi>Shape</hi> and <hi>Symmetry</hi> of parts, than in <hi>Colour;</hi> and that the moſt charming <hi>Amia<g ref="char:EOLhyphen"/>bleneſs</hi> of the Body reſults chiefly from a decent vivacity and gracefulneſs of <hi>Motion:</hi> then, certainly, may we give credit to our ſight, which aſſures us, <hi>His</hi> MAJESTY is one of the <hi>Comelieſt</hi> Perſonages of the Age. Which yet I mention not out of an opinion, that Eminent Virtue always chooſeth the faireſt Tenements of fleſh to dwell in; for, that's no general Rule to judge by: but, becauſe it is moſt certain, that her lovelineſſe is moſt conſpicuous in a Body that is <hi>Comely,</hi> though not of delicate Fea<g ref="char:EOLhyphen"/>tures, and which hath rather <hi>Dignity</hi> of <hi>Preſence,</hi> than <hi>Beauty</hi> of <hi>Aſpect;</hi> like a rich Stone, which is then ſet to moſt advantage of its luſtre, when it is ſet plain. All men allow, there is a very near Affi<g ref="char:EOLhyphen"/>nity and Conſent betwixt the <hi>Body</hi> and its Inmate, the <hi>Mind;</hi> and as Nature, when ſhe erreth in the
+<pb n="7" facs="tcp:169359:6"/>Fabrick of the one, is ſeldom obſerved to com<g ref="char:EOLhyphen"/>penſate that defect with extraordinary Qualities of the other: ſo contrariwiſe, where She is exact in the one, She as ſeldom fails to give proportionate per<g ref="char:EOLhyphen"/>fection to the other. As is eminently Exemplified in <hi>His</hi> MAJESTY, betwixt the ſeveral Accom<g ref="char:EOLhyphen"/>pliſhments of whoſe Body and Mind there is ſo rare a Harmony, that they reciprocally <hi>grace</hi> each other.</p>
+            <p>Nor is it fit we ſhould proceed, without a glance of Reverence upon the Memory of that reful<g ref="char:EOLhyphen"/>gent Rock from whence this Gemme was taken; I mean <hi>His</hi> MAJESTIES Royal FATHER, who, by the Confeſſion of even <hi>His</hi> Enemies (yet thoſe were ſavage Beaſts in Human ſhape) well deſerved to be enrolled in the Eternal Regiſters of Fame, the Greateſt, Wiſeſt, moſt Pious, moſt Chriſtian King of the Age in which he lived. A <hi>Prince,</hi> in<g ref="char:EOLhyphen"/>to whoſe truly Heroical breaſt Divinity had infuſed a Soul ſo pure and white, that not with ſufficient caution reflecting upon the great depravity of the Times, and corruption of Mens Manners, <hi>He</hi> as freely confided in the faith of Others, as <hi>His</hi> own Uprightneſſe and Sincerity ſuggeſted to <hi>Him,</hi> they ought to have confided in <hi>His:</hi> nor was <hi>He</hi> capa<g ref="char:EOLhyphen"/>ble of being deceived, otherwiſe than through <hi>His</hi> own exceeding <hi>Goodneſs.</hi> A <hi>Prince</hi> ſo <hi>Juſt, He</hi> ſcarce knew <hi>Wrong,</hi> but what <hi>He ſuffer</hi>'d: nor is it eaſie for Malice to find wherein <hi>He</hi> ever did an <hi>In<g ref="char:EOLhyphen"/>jury,</hi> unleſſe in conferring upon ſome Men Benefits
+<pb n="8" facs="tcp:169359:7"/>ſo great, they underſtood not how to uſe them as they ought. <hi>Hanc unam, Caeſar, habeo à Te injuriam; effeciſti ut viverem, &amp; morerer ingratus,</hi> was <hi>Furni<g ref="char:EOLhyphen"/>us</hi> his Complement to <hi>Auguſtus,</hi> for pardoning his Father, who had been in Arms againſt him: and there were, who returned the ſame to <hi>This</hi> Good <hi>King,</hi> though in the worſt ſenſe; abuſing the power and truſt they had received from <hi>Him</hi> to <hi>His</hi> ruine, and by the deſtruction of the Benefactor, cancelling thoſe Obligations, which were too great to be requited. So dangerous even to their Fountain are the Streams of Favour and Bounty, where they flow upon perſons, in whom <hi>Ambition</hi> is confederate with <hi>Ingratitude.</hi> In a word, <hi>He</hi> was a <hi>Prince,</hi> who lived Innocently, ruled Juſtly, and died Holily: being, after ſundry <hi>Afflictions</hi> (and thoſe ſo ſharp ones too, as no <hi>Patience</hi> but <hi>His</hi> could have con<g ref="char:EOLhyphen"/>quer'd them) reſtored to Heaven by a moſt glo<g ref="char:EOLhyphen"/>rious Martyrdom, inflicted by the barbarous hands of moſt accurſed Traitors and Regicides. And, cer<g ref="char:EOLhyphen"/>tainly, the Virtues of ſuch a Father cannot but be derived to <hi>His</hi> MAJESTY by the right of Nature, the Inheritance of His Royal Blood. Beſides, <hi>The Memory of a Good and Merciful Prince deceaſed, doth always highly endear His Progeny, and redouble upon His Son, who ſucceeds Him, the Fidelity and Affections of His People.</hi>
+            </p>
+            <p>Among all the Characters of the Deity, that re<g ref="char:EOLhyphen"/>main impreſſed upon Man's Soul, the moſt excel<g ref="char:EOLhyphen"/>lent, and that by which ſhe doth beſt teſtifie her Ori<g ref="char:EOLhyphen"/>ginal,
+<pb n="9" facs="tcp:169359:7"/>is that which the Grecians call <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the Latines <hi>Humanitas,</hi> and we <hi>Goodneſs of Nature;</hi> being a certain inherent diſpoſition of the Mind to affect and deſire the weal of all Mankind, and an<g ref="char:EOLhyphen"/>ſwering that higheſt of Theological Virtues, <hi>Charity.</hi> This Virtue <hi>His</hi> MAJESTY hath as well in the Ha<g ref="char:EOLhyphen"/>bit, as in the Inclination, in ſo full a meaſure, that it ſeems the Maſter Ingredient in His Compoſition. Inſomuch that it is harder for Him to be <hi>offended,</hi> than to <hi>pardon;</hi> more agreeable to His nature to con<g ref="char:EOLhyphen"/>fer <hi>Benefits,</hi> than to reſent <hi>Injuries.</hi> He is <hi>Gracious</hi> even to Strangers; which ſhews, that though His <hi>Dominions</hi> be an <hi>Iſland</hi> ſeparate from the reſt of the World, yet His generous <hi>Heart</hi> is none, but a vaſt <hi>Continent</hi> joyned to all Lands: nor is it more His <hi>Care</hi> of His Subjects (though that alſo be greater for <hi>them</hi> than for <hi>Himſelf</hi>) than His <hi>Kindneſſe</hi> to them, which by ſo ſtrong a Title denominates Him the FATHER of His <hi>Country.</hi> All we, who are His Subjects, with joy acknowledge our ſelves ſtrictly bound to Him, by His Laws, and our Allegiance: but by His cour<g ref="char:EOLhyphen"/>teous ſtooping beneath His Height, and Majeſty not hard to be approach'd, even ſuch find and confeſſe themſelves more ſtrictly bound, who otherwiſe are moſt <hi>Free.</hi> So Univerſal is the Soveraignty of His Goodneſſe, that <hi>Princes</hi> have wiſh'd them<g ref="char:EOLhyphen"/>ſelves under His Command: and <hi>Ambaſſado<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s</hi> not willingly return home to their Maſters; finding Here, if not more of <hi>Protection,</hi> yet more of <hi>Encouragement</hi> and honorable <hi>Hopes,</hi> than in their own Countries. The juſt and equitable deſires of His People, He doth rather <hi>anticipate,</hi> than <hi>expect,</hi> but
+<pb n="10" facs="tcp:169359:8"/>never <hi>delay:</hi> and whomſoever, Strangers or Natives, Fame inviteth to behold the Magnificence of His Court, His <hi>Affability</hi> moſt gratefully admits; nor do they ever depart from His Preſence <hi>ſad,</hi> unleſſe it be <hi>becauſe they are to depart.</hi> For, what <hi>Horace</hi> ſaid to <hi>Auguſtus Caeſar,</hi> is more due to <hi>His</hi> MAJESTY,
+<q>
+                  <l>
+                     <hi>Inſtar veris enim, vultus ubi Tuus</hi>
+                  </l>
+                  <l>
+                     <hi>Affulſit, populo gratior it dies,</hi>
+                  </l>
+                  <l>
+                     <hi>Et ſoles melius nitent.</hi>
+                  </l>
+               </q>
+               <q>
+                  <l>The luſtre of <hi>His</hi> Royal ſight</l>
+                  <l>Makes the day paſſe with more delight,</l>
+                  <l>And Suns to ſhine more bright.</l>
+               </q> 
+               <hi>So powerful in their operation upon the Affections of even the vulgar, are the beams of MAJESTY, when mi<g ref="char:EOLhyphen"/>tigated by a gracious Aſpect, and conjoyn'd with the Ema<g ref="char:EOLhyphen"/>nations of a Benignity diffuſive upon all.</hi> But, this makes but one Twiſt in that manifold Chord, by which our Hearts are faſtned to <hi>His</hi> MAJESTY's Footſtool. For,</p>
+            <p>
+               <hi>He</hi> is, moreover, a KING of ſo <hi>Mild,</hi> and withall ſo <hi>Great</hi> a Spirit, that His <hi>Severity</hi> (if <hi>He</hi> hath any) is conceal'd, but <hi>Clemency</hi> viſible to all. Whence it comes, that <hi>He</hi> puniſheth but rarely, never with Ri<g ref="char:EOLhyphen"/>gor; being better pleas'd with <hi>Attonement</hi> made by <hi>Tears,</hi> than <hi>Expiation</hi> by <hi>Blood.</hi> For Offences againſt <hi>His</hi> ſacred <hi>Perſon,</hi> He yet hath puniſh'd none: for offences againſt <hi>His Laws,</hi> very few; and thoſe Vil<g ref="char:EOLhyphen"/>lains
+<pb n="11" facs="tcp:169359:8"/>of deſperate contumacy, ſuch as appeared to have made a Vow, never to repent, never to be in<g ref="char:EOLhyphen"/>nocent. Nor did <hi>He</hi> puniſh Theſe, but (like the im<g ref="char:EOLhyphen"/>partial Law) that by their Example others might be deterred from committing the like horrid Crimes, and that the <hi>Good</hi> might live in more ſecurity, the <hi>Bad</hi> being taken away. <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oſmus</hi> Duke of <hi>Florence</hi> had a deſperate ſaying, <hi>That we are commanded to forgive our Enemies, but no where commanded to forgive our Friends;</hi> intimating, that Wrongs from a Friend are unpardonable. But <hi>His</hi> MAJESTY ſhews His Spi<g ref="char:EOLhyphen"/>rit to be of a more Chriſtian temper, deteſting ſuch unchriſtian Policy; For He hath pardoned as well <hi>Secret,</hi> as <hi>Profeſſed</hi> Enemies, and extended His Mercy not onely to the <hi>Weakneſſes</hi> of <hi>His Friends,</hi> but even to their <hi>Neglects</hi> and <hi>Perfidiouſneſſe.</hi> Which ſeems to be a chief reaſon, why the wounds of our State heal ſo faſt; that otherwiſe might have remained long green, and perhaps have feſter'd. In a word; <hi>His</hi> MAJESTY's <hi>Fortune</hi> is ſo <hi>Sublime, He</hi> cannot want the Solace of <hi>Revenge; His Mind</hi> ſo <hi>Generous, He</hi> cannot be delighted with it: well remembring, that it is a Princes part to remit offences; and as well un<g ref="char:EOLhyphen"/>derſtanding, that no Ornament is more worthy and becoming the Head of a King, than that <hi>Civic Crown,</hi> with this Inſcription, FOR SUBIECTS SA<g ref="char:EOLhyphen"/>VED.</p>
+            <p>He is a KING, whom God hath endowed with that <hi>Perſpicacity</hi> of <hi>Wit,</hi> and a <hi>Judgment</hi> ſo diſcern<g ref="char:EOLhyphen"/>ing; and (what is moſt happy in a King) brought up and exerciſed from His Childhood, in thoſe various
+<pb n="12" facs="tcp:169359:9"/>encounters of adverſe Fortune, in Exile, Travels, Cares, Hardſhips, Wants, and continual Dangers: that we may ſafely propheſie, that hereafter no Diſ<g ref="char:EOLhyphen"/>after ſhall occurr to diſturb the Peace of His Reign, that can be inſcrutable to His <hi>Wiſdom,</hi> or inſupe<g ref="char:EOLhyphen"/>rable to His <hi>Fortitude.</hi>
+            </p>
+            <p>For the <hi>Latter</hi> of theſe two Virtues; certainly, no man ever gave clearer proof of it in himſelf, than <hi>His</hi> MAJESTY hath done: The greateſt part of His Life hitherto having been no other but a continued Tri<g ref="char:EOLhyphen"/>umph over the ſharpeſt Afflictions and Calamities; in all which He hath born Himſelf with ſuch undaunted Courage, &amp; bravery of Reſolution, as if he had at once <hi>Fragilitatem Hominis, &amp; Securitatem Dei.</hi> Which the <hi>Stoicks</hi> themſelves allow to be the higheſt command over Nature, and moſt Heroical pitch of Magnanimi<g ref="char:EOLhyphen"/>ty, of which Mortality is capable. Of his <hi>Active</hi> Valour likewiſe, other Nations beſides this have had more than ſufficient Experience: and He hath more than once demonſtrated, that of all the Paſſions, His Breaſt is leaſt capable of that of <hi>Fear,</hi> unleſſe of doing Evil. Inſomuch that thoſe of His Followers, who had the Honor to attend Him upon a Charge, have found it a harder task, to with-hold <hi>Him</hi> from too far en<g ref="char:EOLhyphen"/>dangering His Sacred Perſon, than to beat the Enemy.</p>
+            <p>And as for the <hi>Former, viz.</hi> His <hi>Wiſdom;</hi> though that be as plainly viſible in His MAJES<g ref="char:EOLhyphen"/>TY's ſo ſpeedy and dextrous Compoſure of the ma<g ref="char:EOLhyphen"/>ny and great Diſtractions of theſe Nations, ſince His
+<pb n="13" facs="tcp:169359:9"/>moſt happy Reſtitution; as our <hi>Madneſſe,</hi> in forcing Him ſo long to remain in forein Countries, was in the extreme <hi>Miſeries</hi> we ſuffer'd the while: yet I ask leave to inſtance it in one or two Particulars, which being the proper <hi>Effects,</hi> may well be alleged as certain <hi>Signes</hi> of great Wiſdom and Sagacity in a Prince. Firſt, then,
+<q>
+                  <hi>Principis eſt virtus maxima, noſſe ſuos;</hi>
+               </q> it is an infallible Oracle of Time, that nothing doth more demonſtrate and commend the judgment of Princes, than their <hi>Election</hi> of Grand Officers, and publick Miniſters, of eminent parts and ſingular abilities in their ſeveral Functions; ſuch as may not onely comport with the dignity of their Places, but alſo encreaſe and illuſtrate it. And it is in vain for Rulers to take counſel concerning <hi>Matters,</hi> if they take no counſel likewiſe concerning <hi>Perſons</hi> fit to manage them: Matters being as dead Images, and the life of the Execution of Affairs wholly reſting in the good choice of Individuals. Now, if we re<g ref="char:EOLhyphen"/>duce all men more immediately entruſted by Princes, to four Orders or Degrees; viz. <hi>Participes curarum,</hi> ſuch upon whom the Soveraign diſchargeth the greateſt weight of his affairs of State; <hi>Duces Militiae,</hi> principal Captains or Leaders of His Forces; <hi>Gratio<g ref="char:EOLhyphen"/>ſos,</hi> Favourites, ſuch as are a ſolace to Himſelf, and harmleſſe to the People; and <hi>Negotiis Pares,</hi> ſuch as hold great Places, and execute them with ſufficiency: and then reflect upon the admirable choice <hi>His</hi> MA<g ref="char:EOLhyphen"/>JESTY hath at preſent made in all theſe; we ſhall
+<pb n="14" facs="tcp:169359:10"/>ſoon be convinced, that <hi>His</hi> natural Abilities are im<g ref="char:EOLhyphen"/>proved to a high degree of Perfection by Obſerva<g ref="char:EOLhyphen"/>tion and Experience, and that <hi>He</hi> is deeply read in the Natures and diſpoſitions of Men; one of the moſt important points in the Art of Government.</p>
+            <p>
+               <hi>Secondly,</hi> it is a ſound Maxim in Politiques, <hi>That in difficult and corrupt times, one of the moſt effectual Antidotes againſt the Contagion of popular Diſcontent<g ref="char:EOLhyphen"/>ments and Seditions, is for a Prince to nouriſh</hi> Hopes, <hi>and ſo to order matters, as that unquiet and tumultuous Spirits may be calmed by</hi> Expectation, <hi>where they cannot preſently be laid by</hi> Satisfaction. And of this Preſerva<g ref="char:EOLhyphen"/>tive <hi>His</hi> MAJESTY, like a skilful <hi>Eſculapius</hi> of the State, hath made good uſe, ſince God ſo miracu<g ref="char:EOLhyphen"/>louſly brought Him to the Execution of His Kingly Office. For, obſerving the diverſity of Factions, and multitude of Exorbitant and Male-contented Spirits ſwarming in His Kingdoms; and finding it not onely unſafe to the publick, but alſo impoſſible, at once to gratifie Intereſts manifeſtly repugnant each to other, and to content men who were ſo immodeſt and un<g ref="char:EOLhyphen"/>reaſonable, as to make themſelves Judges of what was fit for <hi>Him</hi> to grant, and meaſure the Equita<g ref="char:EOLhyphen"/>bleneſſe of their Deſires by no other Rule but that of their own and their Parties advantage: <hi>He</hi> hath had moſt timely recourſe to this Expedient, and handled things in ſo prudent a manner, that no Evil, either preſent, or impendent, hath appeared ſo peremptory, but that it ſtill hath had ſome out-let of <hi>Hope;</hi> there<g ref="char:EOLhyphen"/>by leaving no party to ſhipwrack themſelves upon
+<pb n="15" facs="tcp:169359:10"/>the Rock of Deſpair, and moſt wiſely imitating <hi>Epimetheus,</hi> who when Griefs and Evils of all ſorts flew abroad out of <hi>Pandora</hi>'s Box to infect Mankind, at laſt ſhut the lid, and kept <hi>Hope</hi> in the bottom. Now, <hi>This,</hi> as it ſhews the Univerſality of <hi>His</hi> MAJESTY's <hi>Care,</hi> and His willingneſſe to include all men in the Circle of His <hi>Providence:</hi> ſo doth it ſhew likewiſe the profoundneſſe of His <hi>Judgment,</hi> in that He eſtimates His Conceſſions rather by the real <hi>Utility,</hi> than the <hi>Importunity</hi> of Suters; and that He is not forgetful of that Saying of <hi>Seneca</hi> (2 <hi>de Benef.) Sunt quaedam nocitura impetrantibus, quae non dare, ſed negare, beneficium eſt.</hi>
+            </p>
+            <p>To theſe may be added a <hi>Third</hi> Inſtance of His MAJESTY's extraordinary Sufficiency in the Sacred Myſteries of Empire; and that is, <hi>His great Preparati<g ref="char:EOLhyphen"/>ons to improve the principal Dowry of this His Kingdom of Great Britain, the Vantage of Strength by Sea, that Nature hath given it.</hi> The daily encreaſe of His Roy<g ref="char:EOLhyphen"/>al Navy ſpeaks Him to be of that opinion, which <hi>Cicero (in Epiſt. ad Atticum)</hi> aſcribes to <hi>Pompey</hi> the Great, where he ſaith, <hi>Conſilium Pompeii plane The<g ref="char:EOLhyphen"/>miſtocleum eſt, putat enim, qui Mari potitur, eum Rerum etiam poti<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i:</hi> Which, doubtleſs, is true, the vaſt ex<g ref="char:EOLhyphen"/>ceſſe of Power <hi>His</hi> MAJESTY hath in that parti<g ref="char:EOLhyphen"/>cular above all Princes and States of Europe, duely conſider'd: as well becauſe he that is Maſter of the Sea, is at liberty to begin or end a Warre, where, when, and upon what Terms He pleaſeth; as becauſe
+<pb n="16" facs="tcp:169359:11"/>the Wealth of both <hi>Indies</hi> ſeems in great part but an Acceſſary to the Soveraignty of the Seas. But, why do I ſingle out Particular teſtimonies of that Prudence, which is in it ſelf <hi>General,</hi> and runs in full ſtreams through all <hi>His</hi> MAJESTY's Counſels and proceedings? Eſpecially when it is already viſible to the world, that in Nature nothing is ſo <hi>Sublime,</hi> But it may be comprehended by His MAJESTY's vaſt <hi>Underſtanding;</hi> nothing ſo <hi>Mean,</hi> as to eſcape His <hi>Curioſity.</hi> Wherefore, as the ſacred Scripture ſaith of the wiſeſt King, that <hi>his Heart was as the ſands of the Sea;</hi> which, though one of the largeſt bodies in the bulk or maſſe, is yet made up of the ſmalleſt par<g ref="char:EOLhyphen"/>ticles: ſo may I ſay of <hi>His</hi> MAJESTY, to whom God hath given an <hi>Intellect</hi> ſo exceeding capacious, as it ſeems able to comprehend the Greateſt matters, and to apprehend the Smalleſt, and not to ſuffer them to eſcape His Obſervation.</p>
+            <p>As Wiſdom appears to direct His Counſels, ſo doth JUSTICE to regulate His <hi>Power;</hi> which accor<g ref="char:EOLhyphen"/>dingly he uſeth to no other end, but the vindication of Right, and ſuppreſſion of Wrong. If, with Mo<g ref="char:EOLhyphen"/>raliſts and Civil Lawyers, we underſtand <hi>Juſtice</hi> to be <hi>Constans &amp; perpetua voluntas jus ſuum cui<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> tri<g ref="char:EOLhyphen"/>buendi,</hi> a conſtant and unalterable Will of giving to every man what is his due; and grant that the Pre<g ref="char:EOLhyphen"/>cepts, or (rather) duties of a man perfectly juſt, are all comprehended in theſe Three, <hi>Honeſtè vivere, Alterum non laedere, Suum cui<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> tribuere:</hi> then may
+<pb n="71" facs="tcp:169359:11"/>we ſafely conclude His MAJESTY to be ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rictly <hi>Juſt.</hi> For, He lives uprightly, doth injury to none, gives every man his due: as is evident from hence, that in ſo ſhort (and, as he might have made it, to Himſelf ſo advantagious) a time, no Prince ever took more care, or made better prov<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſion to redreſſe pub<g ref="char:EOLhyphen"/>lick Wrongs and Oppreſſions, than He hath done; and from hence, that even in matters appertaining to His Royal Prerogative, He ſtill hath referred Himſelf to the Determination of the <hi>Law,</hi> which, as it is in it ſelf the Rule of Juſtice, ſo doth He make it the Rule of His <hi>Will;</hi> in all deliberations keeping His Eye rather upon the <hi>Equity,</hi> than the <hi>Utility</hi> of the thing propoſed. <hi>Plato,</hi> I remember, in his Dia<g ref="char:EOLhyphen"/>logue betwixt <hi>Euthryphro</hi> and <hi>Socrates,</hi> concerning <hi>Sanctity,</hi> brings in the Former ſpeaking to the Lat<g ref="char:EOLhyphen"/>ter in theſe words; <hi>Juſti partem, O Socrates, ſanctum &amp; pium eſſe reor; quae ſcilicet circa Deorum curam ver<g ref="char:EOLhyphen"/>ſatur; eam verò quae ad Hominum curam pertinet, reli<g ref="char:EOLhyphen"/>quam eſſe juſtitiae partem:</hi> plainly importing, that Juſtice hath Two main Branches, one that points upwards, and contains a due care of the Worſhip of <hi>God;</hi> another that ſhoots forth in a ſtreight line, and extends it ſelf to a care of the good and wel<g ref="char:EOLhyphen"/>fare of <hi>Men</hi> in Societies. Now if we reflect upon what <hi>His</hi> MAJESTY hath already done in <hi>both</hi> theſe <hi>Reſpects,</hi> we cannot but acknowledge <hi>Him</hi> to be a <hi>Juſt</hi> Prince, alſo according to this Opinion of <hi>Plato.</hi> For,</p>
+            <pb n="18" facs="tcp:169359:12"/>
+            <p>As to the <hi>First;</hi> He is a KING, to whom no Intereſt is ſo dear, no Care ſo conſtant, as that of RELIGION, and the true Worſhip of God. Which (that I may omit His interiour <hi>Piety,</hi> and impregnable <hi>Conſtancy</hi> in the <hi>Faith,</hi> in which He was educated) is unqueſtionably evident in this, that though it be not long ſince Providence Divine reſto<g ref="char:EOLhyphen"/>red Him to the Throne of His Royal Progenitors; yet hath He already reſtored God to His Country, to God his Temples, to Temples their Sacred Things, to Sacred Things Reverend Prelates, to Prelates their Dignities with ſecurity: and this by a Zeal moſt noble, a Prudence admirable, and a Felicity not only to Poſterity, but even to Us, who are at this day bleſt therewith, well nigh incredible. Nor doth it ſeem, that Reaſon of State, or a conſideration of the neer Sympathy that alwayes is between the State Civil, and the State Eccleſiaſtical, (which even the Scripture intimates in that ſaying, <hi>tranſlato Sacerdotio, neceſſe eſt ut &amp; Legis flat tranſlatio</hi>) alone induced His MAJESTY to the reſtitution of Epiſcopacy: but rather a judicious Piety, grounded upon a ſtrong aſſurance, that of all Orders in the Church, none is more Antient, none more Sacred and Venerable, none more beneficial to the peace and unity of it, than that of <hi>Biſhops.</hi> Moreover, what by gentle Counſels, what by convincing Arguments, what by His own great Example; <hi>His</hi> MAJESTY hath re<g ref="char:EOLhyphen"/>duced to their Wits again, and almoſt to Conformity with both the Doctrine and Diſcipline of Holy Church, no ſmall number of <hi>Fanatiques:</hi> a moſt re<g ref="char:EOLhyphen"/>fractary Sect of People, who ſo make themſelves
+<pb n="19" facs="tcp:169359:12"/>Arbiters of Religion and Governours, that they mea<g ref="char:EOLhyphen"/>ſure their Duties to Both, not by the rule of Precepts Divine, not by their Countries Lawes and Rites; but only by their own deluſive Dreams, which, like Furies, drive them head-long upon all the abſurdities and extravagances of a diſtracted Superſtition. Yea, (what is yet more horrid) they ſeem to outvy the <hi>De<g ref="char:EOLhyphen"/>vil</hi> h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mſelf in Blaſphemy. For, He ſaid, <hi>I will aſ<g ref="char:EOLhyphen"/>cend, and be like the Higheſt:</hi> but they perſonate God, and bring Him in ſaying, <hi>I will deſcend, and be like the Prince of Darkneſſe;</hi> in that they pretend the inſpira<g ref="char:EOLhyphen"/>tion of His <hi>Holy Spirit,</hi> to juſtifie their cruel and exe<g ref="char:EOLhyphen"/>crable actions of taking up Armes againſt their Sove<g ref="char:EOLhyphen"/>raign, murthering their fellow Subjects, and attempt<g ref="char:EOLhyphen"/>ing to ſubvert Government.</p>
+            <p>As to the <hi>Other;</hi> His MAJESTY is a KING, who hath as it were by His very Preſence, brought preſent Remedy to the inveterate and otherwiſe incu<g ref="char:EOLhyphen"/>rable Diſtempers of Great Britain: and like <hi>Jupiter</hi> the <hi>Preſerver,</hi> as it were in a moment recompoſed His Country, almoſt torn in pieces by Civil Diſcords and Factions. Nine moneths are not yet fully paſt, when we beheld before our eyes the Image of a Common<g ref="char:EOLhyphen"/>wealth moſt ſad and deplorable, when all things ap<g ref="char:EOLhyphen"/>pear'd dolefull, troubled and confuſed; and when we complained, that to compleat our Calamities nothing remained, but the total Extirpation of Three famous Nations: and yet at this thrice happy day, ſo hath <hi>His</hi> MAJESTY changed the condition of His three Kingdomes, that all things are not only in a deep
+<pb n="20" facs="tcp:169359:13"/>Quiet, but alſo in Proſperity; the Laws are ſo reli<g ref="char:EOLhyphen"/>giouſly obſerved, that we find our ſelves in the arms of a moſt delightfull Peace; nor can we imagine what is wanting to our higheſt Liberty, unleſſe it be the <hi>Licence of deſtroying our ſelves.</hi>
+            </p>
+            <q>
+               <l>
+                  <hi>Jam Fides, et Pax, et Honor, Pudorque</hi>
+               </l>
+               <l>
+                  <hi>Priſcus, et neglecta redire Virtus</hi>
+               </l>
+               <l>
+                  <hi>Audet, apparetque beata pleno</hi>
+               </l>
+               <l>
+                  <hi>Copia cornu.</hi>
+               </l>
+            </q>
+            <q>
+               <l>Now <hi>Faith,</hi> and <hi>Peace,</hi> and <hi>Shame</hi> begin</l>
+               <l>To riſe again, as from the dead:</l>
+               <l>Now antient <hi>Virtue</hi> dares come in,</l>
+               <l>And ſhew her long-neglected head:</l>
+               <l>And bleſſed <hi>Plenty,</hi> with her load,</l>
+               <l>Appears abroad.</l>
+            </q>
+            <p>Under His MAJESTIE's Adminiſtration of the State, now doth deep and rich <hi>Security</hi> thrive; <hi>Right</hi> thrives, placed above all Injury; the Studies of <hi>Learning</hi> thrive, and the <hi>Honours</hi> of thoſe Studies: and All His ſober and ingenuous Subjects are ready to make this twofold gratefull Confeſſion, that they are <hi>Happy,</hi> and that to theſe Bleſſings nothing can be ad<g ref="char:EOLhyphen"/>ded, unleſſe that they may be <hi>Perpetual.</hi>
+            </p>
+            <pb n="21" facs="tcp:169359:13"/>
+            <p>Theſe are <hi>Great</hi> things, You'l ſay: and yet, truly, they make but a part of the ineſtimable Benefits we have received from <hi>His</hi> MAJESTY; while <hi>He,</hi> (as if obſerving the precepts of that <hi>Platonique Juſtice,</hi> which of all others deſcribed by Men, ſeems to be the moſt Perfect and Difficult) dividing His Cares betwixt our <hi>Spiritual</hi> and <hi>Temporal</hi> Good, hath been ſo wonderfully ſucceſsfull in them, that it muſt be wholly our own fault, if we be wanting in either.</p>
+            <p>In fine, He is a KING, in whom <hi>Clemency</hi> and <hi>Justice, Piety</hi> and <hi>Fortitude, Modeſty</hi> and <hi>Magnani<g ref="char:EOLhyphen"/>mity,</hi> (Virtues that ſeldom co-habit in one breaſt) are with ſo perfect an Union married together: that they conſpire to give more luſtre to His <hi>Crown,</hi> than that can to His Royal <hi>Head;</hi> that Men are compel<g ref="char:EOLhyphen"/>led to place their Veneration, rather upon His <hi>Perſon</hi> and <hi>Divine Endowments of Mind,</hi> than upon His <hi>For<g ref="char:EOLhyphen"/>tune;</hi> that He is become at once the <hi>Glory</hi> and <hi>Envy</hi> of Kings; that ſupreme Soveraignty is his due, as much by <hi>Merit,</hi> as by <hi>Fate;</hi> and (in a word) that no man can propoſe to His MAJESTY an <hi>Example</hi> more worthy His imitation in the future, than that of <hi>Himſelf</hi> in the preſent. To conclude, therefore; as <hi>Aſtronomers</hi> obſerve, that when three of the <hi>Superior Luminaries</hi> meet in <hi>Conjunction,</hi> that Aſpect alwayes produceth Effects ſingularly good and happy to Mankind: ſo may we, upon more certain grounds, be confident, that this great <hi>Conjunction</hi> of ſo many
+<pb n="22" facs="tcp:169359:14"/>Godlike <hi>Virtues</hi> and <hi>Graces,</hi> that like ſtars of the firſt magnitude, ſhine together in the firmament of His MAJESTIE's Royal Mind, cannot but have ſo be<g ref="char:EOLhyphen"/>nign an influence upon His Government, as to make it highly <hi>Glorious</hi> to <hi>Himſelf,</hi> and perfectly <hi>Happy</hi> to His <hi>People.</hi>
+            </p>
+            <p>His MAJESTIE's vaſt <hi>Goodneſſe,</hi> and therein our own great <hi>Happineſſe</hi> thus conſidered; what can we do leſſe than to <hi>Love, Honour</hi> and <hi>Obey Him? Gra<g ref="char:EOLhyphen"/>titude</hi> obligeth us to acknolwedge Him to be the Pre<g ref="char:EOLhyphen"/>ſerver of Great <hi>Britain,</hi> Hope of <hi>Europe,</hi> ſupporter of the Faith truly Apoſtolique, Example of Princes, and the Love and Delight of all Good Men. And our own <hi>Intereſt,</hi> as well as <hi>Loyalty,</hi> obligeth us to en<g ref="char:EOLhyphen"/>deavour His defence and preſervation to the utmoſt of our power; and withall, to make it our daily Prayer to God Almighty, that He would be pleaſed to eſtabliſh and preſerve <hi>His Moſt Excellent</hi> MAJE<g ref="char:EOLhyphen"/>STY in the Rule of theſe His Kingdomes, which by His Virtue begin to recover that Glory and Feli<g ref="char:EOLhyphen"/>city they ſo long enjoy'd under the Scepters of His Royal Anceſtors; to make His Renown immortal by the greatneſſe of His Actions and Atchievements; and after a long and proſperous Reign, to put Him in poſſeſſion of a <hi>Celeſtial</hi> Crown, in the ſame inſtant He ſhall ſee good to tranſlate Him from His <hi>Terre<g ref="char:EOLhyphen"/>ſtrial</hi> one. And to this <hi>Prayer,</hi> I am well aſſured, there are none, who are not Enemies to God, to
+<pb n="23" facs="tcp:169359:14"/>Government, to the Peace of their Country, to Themſelves; but will, with all ſincerity of Devotion, and fervency of ſpirit, ſay, <hi>Amen.</hi>
+            </p>
+            <epigraph>
+               <q>Tyrannorum caede, &amp; clementis Principis ſuccedentis imperio nihil jucundius, nihil uti<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ius ſubditis accidere poteſt.</q>
+               <bibl>
+                  <hi>Herodian. Lib. 2.</hi>
+               </bibl>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
